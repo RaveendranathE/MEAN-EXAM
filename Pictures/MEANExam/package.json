@@ -1,0 +1,9 @@
+{
+    "name": "MEANExam",
+    "version": "1.0.0",
+    "author": "S528800",
+    "dependencies": {"body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "mongodb":">=0.9.6-7"}
+}
+
